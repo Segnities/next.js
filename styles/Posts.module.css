@@ -1,0 +1,15 @@
+.posts {
+    display: grid;
+    grid-auto-flow: row;
+    grid-row-gap: 5px;
+}
+
+.posts h2 {
+    text-align: center;
+}
+
+.home-link {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
